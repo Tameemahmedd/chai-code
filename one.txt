@@ -1,2 +1,4 @@
 this is file one.
 add another file to the folder.
+folder
+folder
